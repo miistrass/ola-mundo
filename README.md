@@ -1,3 +1,39 @@
+# Blog Pessoal "Olá, Mundo!"
+
+### Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
+          
+
+---
+
+### Status
+
+Em andamento 🛠
+&nbsp;
+
+---
+
+### Objetivo
+
+Este projeto tem como objetivo criar um blog pessoal sobre conteúdos. Ele vai utilizar os conceitos de routes do React.
+A finalidade dele é justamente aplicar todos os conceitos de router-dom e desenvolver uma página mais dinâmica e rápida. 
+Esse projeto foi realizado em um curso do Alura. 
+
+---
+
+### Autor
+
+Feito com ❤️ por Milena Strassburger 🤘
+
+<div>
+<a href="https://instagram.com/miistrass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/milena-strassburger" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
